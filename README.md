@@ -5,6 +5,7 @@
 Passionate about web development, modern technologies, and artificial intelligence.
 
 🎓 Graduated from:
+
 - **RNCP Level 5 / Bac +2 – Web and Mobile Web Developer** (O'clock)
 - **RNCP Level 6 / Bac +4 – Software Developer** (OpenClassrooms)
 
@@ -26,6 +27,7 @@ Passionate about web development, modern technologies, and artificial intelligen
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,6 +38,7 @@ Passionate about web development, modern technologies, and artificial intelligen
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
@@ -45,14 +48,17 @@ Passionate about web development, modern technologies, and artificial intelligen
 ### Databases
 
 #### SQL
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### NoSQL
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & DevOps
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -66,7 +72,9 @@ Passionate about web development, modern technologies, and artificial intelligen
 ## 🏆 Featured Projects
 
 ### 💻 Coding Challenges Platform (Work in progress)
+
 A full-stack platform inspired by LeetCode where users can:
+
 - Solve programming challenges
 - Submit code and run automated tests
 - View detailed execution results
@@ -78,7 +86,9 @@ A full-stack platform inspired by LeetCode where users can:
 ---
 
 ### 🤖 Abricot
+
 An intelligent project management application featuring:
+
 - Authentication and role management
 - Projects, tasks, comments
 - AI task generation using Mistral AI
@@ -88,7 +98,9 @@ An intelligent project management application featuring:
 ---
 
 ### 🏡 Kasa
+
 A modern property rental platform focused on:
+
 - Accessibility (WCAG 2.1 AA)
 - SEO optimization
 - Responsive design
@@ -99,9 +111,11 @@ A modern property rental platform focused on:
 ---
 
 ### 🐉 Atlas of Tamriel
+
 A full-stack fan-made platform dedicated to The Elder Scrolls universe.
 
 Features include:
+
 - Bestiary and detailed creature pages
 - Authentication and user accounts
 - Community forum features
@@ -113,9 +127,11 @@ Features include:
 ---
 
 ### 📝 AltTab
+
 A full-stack blog application built with Vue.js, designed to publish and manage articles.
 
 Features include:
+
 - Authentication with JWT
 - Role-based access control
 - Article creation and management
@@ -128,10 +144,6 @@ Features include:
 ---
 
 ## 📊 GitHub Stats
-
-![Alain GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlainDev97&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainDev97&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlainDev97&theme=tokyonight&hide_border=true)
 
@@ -146,6 +158,7 @@ Features include:
 ## 🎯 Current Goal
 
 My objective is to join a company as an apprentice developer where I can:
+
 - Strengthen my full-stack skills
 - Work on real-world products
 - Learn from experienced developers
@@ -166,6 +179,7 @@ My objective is to join a company as an apprentice developer where I can:
 ## ⚡ Fun Fact
 
 I love building ambitious projects that combine:
+
 - Web development
 - Artificial intelligence
 - Education
