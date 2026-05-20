@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Harry Sparck
 
-## 🚀 Full Stack JavaScript Developer
+## 🚀 Full Stack JavaScript/TypeScript Developer
 
 Passionate about web development, modern technologies, and artificial intelligence.
 
