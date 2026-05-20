@@ -94,6 +94,7 @@ An intelligent project management application featuring:
 - AI task generation using Mistral AI
 
 **Tech Stack:** Next.js, TypeScript, SCSS, Prisma, PostgreSQL, Mistral AI
+- 🌐 [Link](https://abricot-eight.vercel.app/)
 
 ---
 
@@ -107,6 +108,7 @@ A modern property rental platform focused on:
 - Favorites and messaging
 
 **Tech Stack:** Next.js, SCSS, Prisma, MongoDB
+- 🌐 [Link](https://kasa-umber-delta.vercel.app/)
 
 ---
 
@@ -123,6 +125,7 @@ Features include:
 - Responsive and modern interface
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Fastify, Prisma, PostgreSQL
+- 🌐 [Link](https://atlas-of-tamriel.vercel.app/)
 
 ---
 
@@ -140,6 +143,7 @@ Features include:
 - Responsive and modern UI
 
 **Tech Stack:** Vue.js, Tailwind CSS, Node.js, GraphQL, MongoDB
+- 🌐 [Link](https://blog-mongodb-vue.vercel.app/)
 
 ---
 
