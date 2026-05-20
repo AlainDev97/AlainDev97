@@ -129,9 +129,9 @@ Features include:
 
 ## 📊 GitHub Stats
 
-![Alain GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlainDev97&show_icons=true&theme=tokyonight&hide_border=true)
+![Alain GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlainDev97&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainDev97&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlainDev97&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlainDev97&theme=tokyonight&hide_border=true)
 
