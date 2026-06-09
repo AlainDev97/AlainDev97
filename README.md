@@ -71,7 +71,7 @@ Passionate about web development, modern technologies, and artificial intelligen
 
 ## 🏆 Featured Projects
 
-### 💻 Coding Challenges Platform (Work in progress)
+### 💻 HexaJS - Coding Challenges Platform (Work in progress)
 
 A full-stack platform inspired by LeetCode where users can:
 
@@ -81,7 +81,8 @@ A full-stack platform inspired by LeetCode where users can:
 - Track their progress and rankings
 - Receive AI-powered assistance
 
-**Tech Stack:** Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL
+**Tech Stack:** Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL, Prisma, Redis, Docker, Zod
+- 🌐 [Link](https://hexajs.fr/)
 
 ---
 
