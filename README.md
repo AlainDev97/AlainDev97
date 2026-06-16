@@ -1,37 +1,126 @@
-# 👋 Hello, I'm Alain
+# 👋 Hi, I'm Alain
 
-## 🚀 Full Stack JavaScript/TypeScript Developer
+## Full-Stack JavaScript & TypeScript Developer
 
-Passionate about web development, modern technologies, and artificial intelligence.
+I build modern, accessible and secure web applications using **React, Next.js, Node.js and TypeScript**.
 
-🎓 Graduated from:
+My projects cover the complete development lifecycle: interface design, API development, authentication, database modelling, automated testing, containerisation and deployment.
 
-- **RNCP Level 5 / Bac +2 – Web and Mobile Web Developer** (O'clock)
-- **RNCP Level 6 / Bac +4 – Software Developer** (OpenClassrooms)
+🎯 I am currently looking for a **one-year apprenticeship in France** to pursue an **RNCP Level 7 Lead Developer JavaScript programme**, equivalent to a Bac+5 qualification.
 
-🎯 I am currently looking for a **1-year apprenticeship (alternance)** to pursue an **RNCP Level 7 Full Stack JavaScript Developer program (Bac+5 equivalent)**.
-
-📍 Based in France  
-💻 Open to remote, hybrid, or on-site opportunities.
+📍 Based in France
+💼 Open to remote, hybrid and on-site opportunities
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 🌐 Portfolio: [AlainWeb](https://www.alain-web.fr/)
-- 💼 LinkedIn: [Click to redirect](https://www.linkedin.com/in/alain-bonneau/)
-- 📧 Email: alaindev97@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-alain--web.fr-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alain-web.fr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alain_Bonneau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alain-bonneau/)
+[![Email](https://img.shields.io/badge/Email-alaindev97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaindev97@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Project
+
+### 💻 [HexaJS](https://hexajs.fr/) — JavaScript Coding Challenges Platform
+
+HexaJS is a full-stack educational platform where developers can practise JavaScript by solving coding challenges and receiving detailed automated feedback.
+
+#### Key features
+
+- Integrated code editor for solving JavaScript challenges
+- Automated execution of visible and hidden test cases
+- Secure code execution inside isolated Docker containers
+- Asynchronous submission processing with Redis and BullMQ
+- Detailed execution results and test feedback
+- User authentication and role-based access control
+- XP, levels, badges and progression tracking
+- Global leaderboard
+- Administration panel for challenges and test cases
+- Responsive light and dark interfaces
+
+#### Technical highlights
+
+- Resource-limited Docker sandbox for untrusted code execution
+- Queue-based architecture to control concurrent submissions
+- REST API with validation, authentication and rate limiting
+- Relational database designed with Prisma and PostgreSQL
+- Production deployment using Docker, Nginx and a VPS
+
+**Stack:** Next.js · TypeScript · Node.js · Express · Prisma · PostgreSQL · Redis · BullMQ · Docker · Zod · Tailwind CSS
+
+🌐 [Visit HexaJS](https://hexajs.fr/)
+
+---
+
+## 🏆 Other Projects
+
+### 🤖 [Abricot](https://abricot-eight.vercel.app/) — AI-Powered Project Management
+
+A project management application designed to help teams organise projects, tasks and collaboration.
+
+- User authentication and role management
+- Project, task and comment management
+- AI-assisted task generation using Mistral AI
+- Responsive dashboard and project interfaces
+
+**Stack:** Next.js · TypeScript · SCSS · Prisma · PostgreSQL · Mistral AI
+
+---
+
+### 🏡 [Kasa](https://kasa-umber-delta.vercel.app/) — Property Rental Platform
+
+A modern property rental application developed with a strong focus on accessibility, performance and search engine optimisation.
+
+- Property catalogue and detailed accommodation pages
+- Accessible image carousel and interactive components
+- Favourite properties
+- Authentication and user interactions
+- Responsive design
+- WCAG 2.1 AA accessibility considerations
+- SEO optimisation
+
+**Stack:** Next.js · React · TypeScript · SCSS · Prisma · MongoDB
+
+---
+
+### 🐉 [Atlas of Tamriel](https://atlas-of-tamriel.vercel.app/) — The Elder Scrolls Community Platform
+
+A full-stack fan-made platform dedicated to the world and lore of The Elder Scrolls.
+
+- Bestiary with detailed creature pages
+- Authentication and user accounts
+- Community forum features
+- Rich lore-inspired content
+- Responsive fantasy-themed interface
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Fastify · Prisma · PostgreSQL
+
+---
+
+### 📝 [AltTab](https://blog-mongodb-vue.vercel.app/) — Full-Stack Blog
+
+A complete blog application built to publish, organise and manage articles.
+
+- JWT authentication
+- Role-based access control
+- Article creation, editing and deletion
+- Categories and comments
+- Rich-text editor
+- REST and GraphQL concepts
+- Responsive user interface
+
+**Stack:** Vue.js · JavaScript · Tailwind CSS · Node.js · GraphQL · MongoDB
+
+---
+
+## 🛠️ Core Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -42,155 +131,58 @@ Passionate about web development, modern technologies, and artificial intelligen
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-### Databases
+### Databases and Infrastructure
 
-#### SQL
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### NoSQL
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & DevOps
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
+## 🎓 Education
 
-### 💻 HexaJS - Coding Challenges Platform (Work in progress)
+- **RNCP Level 6 — Software Designer and Developer**
+  OpenClassrooms
 
-A full-stack platform inspired by LeetCode where users can:
-
-- Solve programming challenges
-- Submit code and run automated tests
-- View detailed execution results
-- Track their progress and rankings
-- Receive AI-powered assistance
-
-**Tech Stack:** Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL, Prisma, Redis, Docker, Zod
-- 🌐 [Link](https://hexajs.fr/)
+- **RNCP Level 5 — Web and Mobile Web Developer**
+  O'clock
 
 ---
 
-### 🤖 Abricot
-
-An intelligent project management application featuring:
-
-- Authentication and role management
-- Projects, tasks, comments
-- AI task generation using Mistral AI
-
-**Tech Stack:** Next.js, TypeScript, SCSS, Prisma, PostgreSQL, Mistral AI
-- 🌐 [Link](https://abricot-eight.vercel.app/)
-
----
-
-### 🏡 Kasa
-
-A modern property rental platform focused on:
-
-- Accessibility (WCAG 2.1 AA)
-- SEO optimization
-- Responsive design
-- Favorites and messaging
-
-**Tech Stack:** Next.js, SCSS, Prisma, MongoDB
-- 🌐 [Link](https://kasa-umber-delta.vercel.app/)
-
----
-
-### 🐉 Atlas of Tamriel
-
-A full-stack fan-made platform dedicated to The Elder Scrolls universe.
-
-Features include:
-
-- Bestiary and detailed creature pages
-- Authentication and user accounts
-- Community forum features
-- Rich lore-inspired content
-- Responsive and modern interface
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Fastify, Prisma, PostgreSQL
-- 🌐 [Link](https://atlas-of-tamriel.vercel.app/)
-
----
-
-### 📝 AltTab
-
-A full-stack blog application built with Vue.js, designed to publish and manage articles.
-
-Features include:
-
-- Authentication with JWT
-- Role-based access control
-- Article creation and management
-- Categories and comments
-- Rich text editor for writing articles
-- Responsive and modern UI
-
-**Tech Stack:** Vue.js, Tailwind CSS, Node.js, GraphQL, MongoDB
-- 🌐 [Link](https://blog-mongodb-vue.vercel.app/)
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlainDev97&theme=tokyonight&hide_border=true)
 
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlainDev97&theme=tokyo-night&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlainDev97&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 🎯 Current Goal
+## 🎯 What I Am Looking For
 
-My objective is to join a company as an apprentice developer where I can:
+I am looking for an apprenticeship where I can:
 
-- Strengthen my full-stack skills
-- Work on real-world products
-- Learn from experienced developers
-- Contribute to innovative projects involving AI and modern web technologies
+- Contribute to real-world web applications
+- Work alongside experienced developers
+- Strengthen my software architecture and technical leadership skills
+- Improve application quality, security and performance
+- Participate in product and technical decisions
+- Build useful and maintainable features
 
----
-
-## 💡 Interests
-
-- 🌐 Full Stack Development
-- 🤖 Artificial Intelligence
-- 🧠 Educational Platforms
-- 🎮 Gaming
-- 🐉 Fantasy Universes
+I am particularly interested in **full-stack development, developer tools, educational platforms, artificial intelligence and gamification**.
 
 ---
 
-## ⚡ Fun Fact
+## 🤝 Let's Connect
 
-I love building ambitious projects that combine:
+I enjoy building ambitious products, solving technical problems and continuously improving the quality of my work.
 
-- Web development
-- Artificial intelligence
-- Education
-- Gamification
-- Creativity
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories or contact me to discuss an apprenticeship opportunity, a project or a technical collaboration.
