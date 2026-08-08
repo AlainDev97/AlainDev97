@@ -150,6 +150,9 @@ A complete blog application built to publish, organise and manage articles.
 
 ## 🎓 Education
 
+- **RNCP Level 7 (Bac + 5) — Software Development Expert (In progress)**
+  OpenClassrooms
+
 - **RNCP Level 6 (Bac + 4) — Software Designer and Developer**
   OpenClassrooms
 
