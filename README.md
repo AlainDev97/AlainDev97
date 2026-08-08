@@ -150,10 +150,10 @@ A complete blog application built to publish, organise and manage articles.
 
 ## 🎓 Education
 
-- **RNCP Level 6 — Software Designer and Developer**
+- **RNCP Level 6 (Bac + 4) — Software Designer and Developer**
   OpenClassrooms
 
-- **RNCP Level 5 — Web and Mobile Web Developer**
+- **RNCP Level 5 (Bac + 2) — Web and Mobile Web Developer**
   O'clock
 
 ---
