@@ -6,10 +6,7 @@ I build modern, accessible and secure web applications using **React, Next.js, N
 
 My projects cover the complete development lifecycle: interface design, API development, authentication, database modelling, automated testing, containerisation and deployment.
 
-🎯 I am currently looking for a **one-year apprenticeship in France** to pursue an **RNCP Level 7 Lead Developer JavaScript programme**, equivalent to a Bac+5 qualification.
-
 📍 Based in France
-💼 Open to remote, hybrid and on-site opportunities
 
 ---
 
@@ -166,21 +163,6 @@ A complete blog application built to publish, organise and manage articles.
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlainDev97&theme=tokyonight&hide_border=true)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlainDev97&theme=tokyo-night&hide_border=true)
-
----
-
-## 🎯 What I Am Looking For
-
-I am looking for an apprenticeship where I can:
-
-- Contribute to real-world web applications
-- Work alongside experienced developers
-- Strengthen my software architecture and technical leadership skills
-- Improve application quality, security and performance
-- Participate in product and technical decisions
-- Build useful and maintainable features
-
-I am particularly interested in **full-stack development, developer tools, educational platforms, artificial intelligence and gamification**.
 
 ---
 
